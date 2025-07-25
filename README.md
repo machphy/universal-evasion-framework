@@ -38,7 +38,7 @@ The **Universal Evasion Framework** showcases how modern adversarial techniques 
 
 > **Requirements**: Python 3.x, netcat (`nc`), Linux environment
 
-````
+
 ### 🔹 1. Generate a Polymorphic Payload
 ```bash
 python3 payload_generator/generator.py
