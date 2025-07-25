@@ -1,25 +1,25 @@
 
-# 🛡️ Universal Evasion Framework
+#  Universal Evasion Framework
 
 *A modular cybersecurity research framework that demonstrates polymorphic payload generation, fileless execution, AI-driven evasion, and dynamic C2 communication — designed for ethical use in controlled environments.*
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The **Universal Evasion Framework** showcases how modern adversarial techniques can bypass static detection using:
 
-- 🔄 **Polymorphic Payload Generation**
-- 🧠 **AI-based Code Obfuscation**
-- 🧬 **In-memory Execution (Fileless)**
-- 🌐 **Simulated C2 Communication**
-- ✅ **Test Suite for Validation**
+-  **Polymorphic Payload Generation**
+-  **AI-based Code Obfuscation**
+-  **In-memory Execution (Fileless)**
+-  **Simulated C2 Communication**
+-  **Test Suite for Validation**
 
-> ⚠️ This project is created for **educational and research purposes only**, especially for those exploring **EDR/AV evasion** techniques in **ethical hacking** and **red teaming** labs.
+>  This project is created for **educational and research purposes only**, especially for those exploring **EDR/AV evasion** techniques in **ethical hacking** and **red teaming** labs.
 
 ---
 
-## 🧩 Module Breakdown
+##  Module Breakdown
 
 | Module                             | Description                                                        |
 |------------------------------------|--------------------------------------------------------------------|
@@ -34,7 +34,7 @@ The **Universal Evasion Framework** showcases how modern adversarial techniques 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 > **Requirements**: Python 3.x, netcat (`nc`), Linux environment
 
@@ -79,7 +79,7 @@ python3 c2_manager/c2.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 universal-evasion-framework/
@@ -102,24 +102,24 @@ universal-evasion-framework/
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is **strictly for educational and ethical research purposes only**.
 
-* 🚫 Do **not** use this framework on unauthorized systems or networks.
-* 👨‍💻 The developer is **not responsible** for any misuse, damage, or legal consequences.
+*  Do **not** use this framework on unauthorized systems or networks.
+*  The developer is **not responsible** for any misuse, damage, or legal consequences.
 
 > By using this project, you agree to use it **only in controlled environments** for **ethical purposes**.
 
 ---
 
-## 🙌 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-## 📄 License
+##  License
 
 This project may be licensed under a custom license depending on distribution.
 Please check with the developer or maintainer before public use or redistribution.
