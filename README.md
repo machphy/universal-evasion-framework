@@ -1,9 +1,4 @@
-Bilkul, Cloud bhai! 😎
-Yeh raha **complete, clean, and production-ready `README.md`** file — GitHub ke liye proper markdown formatting ke saath. Isme sab kuch hai: project description, usage, modules, project structure, disclaimer — sab ek jagah pe.
 
----
-
-````markdown
 # 🛡️ Universal Evasion Framework
 
 *A modular cybersecurity research framework that demonstrates polymorphic payload generation, fileless execution, AI-driven evasion, and dynamic C2 communication — designed for ethical use in controlled environments.*
