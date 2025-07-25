@@ -1,5 +1,5 @@
 
-def ubxufner():
-    return 3 * 5
+def lsxcmlso():
+    return 5 * 3
 
-print('Payload execution: HyDHrjAVriuaq9qd')  # kkxwluff
+print('Payload execution: DIshswoSs7OzlNvs')  # izshkari
